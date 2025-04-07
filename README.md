@@ -11,7 +11,7 @@ This project focuses on creating an **interactive Power BI Sales Dashboard** usi
 
 ## Insights Extracted
 - Analyzed **4 years of sales data** to reveal trends across regions, segments, and markets.  
-- Identified **top-performing products** and loss-generating items for strategic decision-making.  
+- Identified **top-performing products** and loss-generating items for strategic decision-making.
 - Provided actionable insights on **customer behavior** and **business performance metrics**.
 
 ## Tools and Technologies
